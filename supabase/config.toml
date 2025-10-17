@@ -1,1 +1,7 @@
 project_id = "niltjdhxzbjbzylcvuze"
+
+[functions.products]
+verify_jwt = false
+
+[functions.orders]
+verify_jwt = false
